@@ -1,3 +1,4 @@
+wget https://github.com/WonyoungCho/tcga_data/raw/main/coad/combine_files.py
 wget https://github.com/WonyoungCho/tcga_data/raw/main/coad/beta_values_nonna0.par
 wget https://github.com/WonyoungCho/tcga_data/raw/main/coad/beta_values_nonna1.par
 wget https://github.com/WonyoungCho/tcga_data/raw/main/coad/beta_values_nonna2.par
