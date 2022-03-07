@@ -1,0 +1,179 @@
+IID	sample_type	pheno	age	gender	race	vital_status	ajcc_pathologic_stage
+TCGA-KN-8433-01A-11R-2315-07	Primary Tumor	2	46	female	white	Alive	Stage III
+TCGA-KL-8342-01A-11R-2315-07	Primary Tumor	2	45	female	white	Alive	Stage II
+TCGA-KM-8477-01A-11R-2315-07	Primary Tumor	2	56	male	white	Alive	Stage I
+TCGA-KL-8342-01A-11R-2315-07	Primary Tumor	2	45	female	white	Alive	Stage II
+TCGA-KL-8328-01A-11R-2315-07	Primary Tumor	2	60	male	white	Alive	Stage II
+TCGA-KO-8403-01A-11R-2315-07	Primary Tumor	2	49	male	white	Alive	Stage I
+TCGA-KO-8415-11A-01R-2315-07	Solid Tissue Normal	1	44	female	white	Alive	Stage I
+TCGA-KN-8430-01A-11R-2315-07	Primary Tumor	2	75	male	white	Dead	Stage I
+TCGA-KO-8417-01A-11R-2315-07	Primary Tumor	2	30	female	white	Alive	Stage I
+TCGA-KL-8344-01A-11R-2315-07	Primary Tumor	2	51	male	white	Alive	Stage III
+TCGA-KO-8407-01A-11R-2315-07	Primary Tumor	2	42	male	white	Alive	Stage II
+TCGA-KL-8326-11A-01R-2315-07	Solid Tissue Normal	1	69	male	white	Alive	Stage III
+TCGA-KN-8432-01A-11R-2315-07	Primary Tumor	2	86	female	white	Alive	Stage II
+TCGA-KL-8324-01A-11R-2315-07	Primary Tumor	2	67	female	white	Alive	Stage II
+TCGA-KL-8331-01A-11R-2315-07	Primary Tumor	2	48	female	white	Alive	Stage II
+TCGA-KM-8439-01A-11R-2315-07	Primary Tumor	2	30	male	white	Alive	Stage I
+TCGA-KN-8425-01A-11R-2315-07	Primary Tumor	2	53	male	white	Alive	Stage I
+TCGA-KL-8331-01A-11R-2315-07	Primary Tumor	2	48	female	white	Alive	Stage II
+TCGA-KL-8333-01A-11R-2315-07	Primary Tumor	2	69	male	white	Alive	Stage II
+TCGA-KL-8323-01A-21R-2315-07	Primary Tumor	2	57	female	white	Dead	Stage III
+TCGA-KM-8639-01A-11R-2403-07	Primary Tumor	2	67	male	white	Alive	Stage I
+TCGA-KM-8476-01A-11R-2315-07	Primary Tumor	2	47	male	white	Alive	Stage I
+TCGA-KN-8430-11A-01R-2315-07	Solid Tissue Normal	1	75	male	white	Dead	Stage I
+TCGA-KL-8324-11A-01R-2315-07	Solid Tissue Normal	1	67	female	white	Alive	Stage II
+TCGA-KN-8429-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KL-8338-01A-11R-2315-07	Primary Tumor	2	51	male	white	Alive	Stage III
+TCGA-KL-8326-11A-01R-2315-07	Solid Tissue Normal	1	69	male	white	Alive	Stage III
+TCGA-KM-8442-01A-11R-2315-07	Primary Tumor	2	38	male	not reported	Alive	Stage II
+TCGA-KN-8431-01A-11R-2315-07	Primary Tumor	2	35	female	not reported	Alive	Stage II
+TCGA-KO-8403-11A-01R-2315-07	Solid Tissue Normal	1	49	male	white	Alive	Stage I
+TCGA-KN-8418-01A-11R-2315-07	Primary Tumor	2	41	female	white	Alive	Stage II
+TCGA-KN-8424-11A-01R-2315-07	Solid Tissue Normal	1	42	female	white	Alive	Stage I
+TCGA-KL-8330-01A-11R-2315-07	Primary Tumor	2	44	female	black or african american	Alive	Stage II
+TCGA-KM-8477-01A-11R-2315-07	Primary Tumor	2	56	male	white	Alive	Stage I
+TCGA-KO-8417-01A-11R-2315-07	Primary Tumor	2	30	female	white	Alive	Stage I
+TCGA-KN-8424-01A-11R-2315-07	Primary Tumor	2	42	female	white	Alive	Stage I
+TCGA-KL-8346-01A-11R-2315-07	Primary Tumor	2	62	male	white	Alive	Stage II
+TCGA-KN-8434-11A-01R-2315-07	Solid Tissue Normal	1	65	female	white	Alive	Stage II
+TCGA-KL-8339-11A-01R-2315-07	Solid Tissue Normal	1	67	male	white	Dead	Stage IV
+TCGA-KN-8419-11A-01R-2315-07	Solid Tissue Normal	1	43	male	black or african american	Alive	Stage II
+TCGA-KN-8427-01A-11R-2315-07	Primary Tumor	2	54	male	white	Alive	Stage IV
+TCGA-KO-8416-01A-11R-2315-07	Primary Tumor	2	41	male	white	Alive	Stage III
+TCGA-KN-8419-11A-01R-2315-07	Solid Tissue Normal	1	43	male	black or african american	Alive	Stage II
+TCGA-KL-8335-01A-11R-2315-07	Primary Tumor	2	67	male	white	Alive	Stage III
+TCGA-KO-8409-01A-11R-2315-07	Primary Tumor	2	69	male	white	Alive	Stage II
+TCGA-KN-8419-01A-11R-2315-07	Primary Tumor	2	43	male	black or african american	Alive	Stage II
+TCGA-KN-8435-11A-01R-2315-07	Solid Tissue Normal	1	59	male	white	Alive	Stage II
+TCGA-KL-8329-01A-11R-2315-07	Primary Tumor	2	57	female	asian	Alive	Stage I
+TCGA-KN-8423-01A-11R-2315-07	Primary Tumor	2	44	male	white	Alive	Stage I
+TCGA-KM-8441-01A-11R-2315-07	Primary Tumor	2	61	female	white	Alive	Stage I
+TCGA-KL-8338-01A-11R-2315-07	Primary Tumor	2	51	male	white	Alive	Stage III
+TCGA-KO-8404-01A-11R-2315-07	Primary Tumor	2	78	male	white	Dead	Stage IV
+TCGA-KN-8428-01A-11R-2315-07	Primary Tumor	2	71	male	white	Dead	Stage II
+TCGA-KL-8332-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KN-8437-11A-01R-2315-07	Solid Tissue Normal	1	42	female	white	Alive	Stage I
+TCGA-KL-8329-11A-01R-2315-07	Solid Tissue Normal	1	57	female	asian	Alive	Stage I
+TCGA-KL-8345-01A-11R-2315-07	Primary Tumor	2	75	male	white	Alive	Stage III
+TCGA-KM-8438-01A-11R-2315-07	Primary Tumor	2	45	female	white	Alive	Stage II
+TCGA-KN-8431-01A-11R-2315-07	Primary Tumor	2	35	female	not reported	Alive	Stage II
+TCGA-KN-8435-01A-11R-2315-07	Primary Tumor	2	59	male	white	Alive	Stage II
+TCGA-KM-8440-01A-11R-2315-07	Primary Tumor	2	37	male	black or african american	Alive	Stage III
+TCGA-KN-8436-11A-01R-2315-07	Solid Tissue Normal	1	62	male	white	Alive	Stage II
+TCGA-KL-8324-01A-11R-2315-07	Primary Tumor	2	67	female	white	Alive	Stage II
+TCGA-KO-8415-01A-11R-2315-07	Primary Tumor	2	44	female	white	Alive	Stage I
+TCGA-KN-8432-01A-11R-2315-07	Primary Tumor	2	86	female	white	Alive	Stage II
+TCGA-KL-8325-01A-11R-2315-07	Primary Tumor	2	56	female	white	Dead	Stage II
+TCGA-KM-8639-01A-11R-2403-07	Primary Tumor	2	67	male	white	Alive	Stage I
+TCGA-KL-8341-01A-11R-2315-07	Primary Tumor	2	41	male	asian	Dead	Stage IV
+TCGA-KL-8334-01A-11R-2315-07	Primary Tumor	2	37	female	white	Alive	Stage III
+TCGA-KN-8427-11A-01R-2315-07	Solid Tissue Normal	1	54	male	white	Alive	Stage IV
+TCGA-KN-8430-01A-11R-2315-07	Primary Tumor	2	75	male	white	Dead	Stage I
+TCGA-KN-8436-01A-11R-2315-07	Primary Tumor	2	62	male	white	Alive	Stage II
+TCGA-KN-8437-11A-01R-2315-07	Solid Tissue Normal	1	42	female	white	Alive	Stage I
+TCGA-KN-8423-11A-01R-2315-07	Solid Tissue Normal	1	44	male	white	Alive	Stage I
+TCGA-KN-8429-11A-01R-2315-07	Solid Tissue Normal	1					
+TCGA-KO-8403-01A-11R-2315-07	Primary Tumor	2	49	male	white	Alive	Stage I
+TCGA-KO-8409-01A-11R-2315-07	Primary Tumor	2	69	male	white	Alive	Stage II
+TCGA-KO-8415-11A-01R-2315-07	Solid Tissue Normal	1	44	female	white	Alive	Stage I
+TCGA-KL-8335-01A-11R-2315-07	Primary Tumor	2	67	male	white	Alive	Stage III
+TCGA-KO-8414-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KN-8426-11A-01R-2315-07	Solid Tissue Normal	1	50	male	white	Alive	Stage IV
+TCGA-KL-8340-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KM-8439-01A-11R-2315-07	Primary Tumor	2	30	male	white	Alive	Stage I
+TCGA-KN-8434-01A-11R-2315-07	Primary Tumor	2	65	female	white	Alive	Stage II
+TCGA-KO-8403-11A-01R-2315-07	Solid Tissue Normal	1	49	male	white	Alive	Stage I
+TCGA-KO-8408-01A-11R-2315-07	Primary Tumor	2	47	male	white	Dead	Stage III
+TCGA-KL-8346-01A-11R-2315-07	Primary Tumor	2	62	male	white	Alive	Stage II
+TCGA-KO-8415-01A-11R-2315-07	Primary Tumor	2	44	female	white	Alive	Stage I
+TCGA-KN-8421-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KN-8434-11A-01R-2315-07	Solid Tissue Normal	1	65	female	white	Alive	Stage II
+TCGA-KL-8334-01A-11R-2315-07	Primary Tumor	2	37	female	white	Alive	Stage III
+TCGA-KN-8436-01A-11R-2315-07	Primary Tumor	2	62	male	white	Alive	Stage II
+TCGA-KO-8413-01A-11R-2315-07	Primary Tumor	2	46	male	white	Alive	Stage I
+TCGA-KN-8428-01A-11R-2315-07	Primary Tumor	2	71	male	white	Dead	Stage II
+TCGA-KL-8340-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KM-8441-01A-11R-2315-07	Primary Tumor	2	61	female	white	Alive	Stage I
+TCGA-KL-8343-01A-11R-2315-07	Primary Tumor	2	72	male	white	Dead	Stage III
+TCGA-KL-8337-01A-11R-2315-07	Primary Tumor	2	26	male	black or african american	Alive	Stage II
+TCGA-KN-8423-11A-01R-2315-07	Solid Tissue Normal	1	44	male	white	Alive	Stage I
+TCGA-KL-8325-01A-11R-2315-07	Primary Tumor	2	56	female	white	Dead	Stage II
+TCGA-KN-8435-11A-01R-2315-07	Solid Tissue Normal	1	59	male	white	Alive	Stage II
+TCGA-KO-8408-01A-11R-2315-07	Primary Tumor	2	47	male	white	Dead	Stage III
+TCGA-KM-8443-01A-11R-2315-07	Primary Tumor	2	57	male	white	Alive	Stage II
+TCGA-KL-8336-11A-01R-2315-07	Solid Tissue Normal	1	51	female	white	Dead	Stage IV
+TCGA-KM-8442-01A-11R-2315-07	Primary Tumor	2	38	male	not reported	Alive	Stage II
+TCGA-KO-8411-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KN-8434-01A-11R-2315-07	Primary Tumor	2	65	female	white	Alive	Stage II
+TCGA-KL-8336-01A-11R-2315-07	Primary Tumor	2	51	female	white	Dead	Stage IV
+TCGA-KN-8432-11A-01R-2315-07	Solid Tissue Normal	1	86	female	white	Alive	Stage II
+TCGA-KO-8405-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KL-8337-01A-11R-2315-07	Primary Tumor	2	26	male	black or african american	Alive	Stage II
+TCGA-KL-8328-01A-11R-2315-07	Primary Tumor	2	60	male	white	Alive	Stage II
+TCGA-KL-8336-01A-11R-2315-07	Primary Tumor	2	51	female	white	Dead	Stage IV
+TCGA-KN-8425-01A-11R-2315-07	Primary Tumor	2	53	male	white	Alive	Stage I
+TCGA-KL-8326-01A-11R-2315-07	Primary Tumor	2	69	male	white	Alive	Stage III
+TCGA-KN-8427-01A-11R-2315-07	Primary Tumor	2	54	male	white	Alive	Stage IV
+TCGA-KO-8405-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KL-8327-01A-11R-2315-07	Primary Tumor	2	46	female	white	Alive	Stage I
+TCGA-KN-8422-11A-01R-2315-07	Solid Tissue Normal	1	28	female	white	Alive	Stage I
+TCGA-KL-8344-01A-11R-2315-07	Primary Tumor	2	51	male	white	Alive	Stage III
+TCGA-KN-8423-01A-11R-2315-07	Primary Tumor	2	44	male	white	Alive	Stage I
+TCGA-KO-8404-01A-11R-2315-07	Primary Tumor	2	78	male	white	Dead	Stage IV
+TCGA-KO-8413-01A-11R-2315-07	Primary Tumor	2	46	male	white	Alive	Stage I
+TCGA-KO-8416-01A-11R-2315-07	Primary Tumor	2	41	male	white	Alive	Stage III
+TCGA-KL-8326-01A-11R-2315-07	Primary Tumor	2	69	male	white	Alive	Stage III
+TCGA-KO-8406-01A-11R-2315-07	Primary Tumor	2	17	female	white	Alive	Stage I
+TCGA-KN-8422-11A-01R-2315-07	Solid Tissue Normal	1	28	female	white	Alive	Stage I
+TCGA-KN-8426-01A-11R-2315-07	Primary Tumor	2	50	male	white	Alive	Stage IV
+TCGA-KN-8424-01A-11R-2315-07	Primary Tumor	2	42	female	white	Alive	Stage I
+TCGA-KN-8431-11A-01R-2315-07	Solid Tissue Normal	1	35	female	not reported	Alive	Stage II
+TCGA-KN-8429-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KL-8336-11A-01R-2315-07	Solid Tissue Normal	1	51	female	white	Dead	Stage IV
+TCGA-KL-8332-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KN-8435-01A-11R-2315-07	Primary Tumor	2	59	male	white	Alive	Stage II
+TCGA-KN-8430-11A-01R-2315-07	Solid Tissue Normal	1	75	male	white	Dead	Stage I
+TCGA-KN-8425-11A-01R-2315-07	Solid Tissue Normal	1	53	male	white	Alive	Stage I
+TCGA-KL-8327-01A-11R-2315-07	Primary Tumor	2	46	female	white	Alive	Stage I
+TCGA-KM-8443-01A-11R-2315-07	Primary Tumor	2	57	male	white	Alive	Stage II
+TCGA-KN-8433-01A-11R-2315-07	Primary Tumor	2	46	female	white	Alive	Stage III
+TCGA-KL-8329-01A-11R-2315-07	Primary Tumor	2	57	female	asian	Alive	Stage I
+TCGA-KL-8345-01A-11R-2315-07	Primary Tumor	2	75	male	white	Alive	Stage III
+TCGA-KN-8428-11A-01R-2315-07	Solid Tissue Normal	1	71	male	white	Dead	Stage II
+TCGA-KO-8414-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KN-8418-01A-11R-2315-07	Primary Tumor	2	41	female	white	Alive	Stage II
+TCGA-KL-8341-01A-11R-2315-07	Primary Tumor	2	41	male	asian	Dead	Stage IV
+TCGA-KO-8410-01A-11R-2315-07	Primary Tumor	2	74	female	white	Alive	Stage I
+TCGA-KN-8433-11A-01R-2315-07	Solid Tissue Normal	1	46	female	white	Alive	Stage III
+TCGA-KO-8411-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KN-8424-11A-01R-2315-07	Solid Tissue Normal	1	42	female	white	Alive	Stage I
+TCGA-KL-8333-01A-11R-2315-07	Primary Tumor	2	69	male	white	Alive	Stage II
+TCGA-KN-8433-11A-01R-2315-07	Solid Tissue Normal	1	46	female	white	Alive	Stage III
+TCGA-KN-8429-11A-01R-2315-07	Solid Tissue Normal	1					
+TCGA-KM-8440-01A-11R-2315-07	Primary Tumor	2	37	male	black or african american	Alive	Stage III
+TCGA-KL-8339-11A-01R-2315-07	Solid Tissue Normal	1	67	male	white	Dead	Stage IV
+TCGA-KN-8436-11A-01R-2315-07	Solid Tissue Normal	1	62	male	white	Alive	Stage II
+TCGA-KO-8407-01A-11R-2315-07	Primary Tumor	2	42	male	white	Alive	Stage II
+TCGA-KN-8437-01A-11R-2315-07	Primary Tumor	2	42	female	white	Alive	Stage I
+TCGA-KL-8339-01A-11R-2315-07	Primary Tumor	2	67	male	white	Dead	Stage IV
+TCGA-KL-8330-01A-11R-2315-07	Primary Tumor	2	44	female	black or african american	Alive	Stage II
+TCGA-KN-8426-11A-01R-2315-07	Solid Tissue Normal	1	50	male	white	Alive	Stage IV
+TCGA-KM-8476-01A-11R-2315-07	Primary Tumor	2	47	male	white	Alive	Stage I
+TCGA-KL-8324-11A-01R-2315-07	Solid Tissue Normal	1	67	female	white	Alive	Stage II
+TCGA-KL-8323-01A-21R-2315-07	Primary Tumor	2	57	female	white	Dead	Stage III
+TCGA-KL-8329-11A-01R-2315-07	Solid Tissue Normal	1	57	female	asian	Alive	Stage I
+TCGA-KN-8427-11A-01R-2315-07	Solid Tissue Normal	1	54	male	white	Alive	Stage IV
+TCGA-KN-8421-01A-11R-2315-07	Primary Tumor	2					
+TCGA-KL-8339-01A-11R-2315-07	Primary Tumor	2	67	male	white	Dead	Stage IV
+TCGA-KL-8343-01A-11R-2315-07	Primary Tumor	2	72	male	white	Dead	Stage III
+TCGA-KN-8428-11A-01R-2315-07	Solid Tissue Normal	1	71	male	white	Dead	Stage II
+TCGA-KO-8410-01A-11R-2315-07	Primary Tumor	2	74	female	white	Alive	Stage I
+TCGA-KM-8438-01A-11R-2315-07	Primary Tumor	2	45	female	white	Alive	Stage II
+TCGA-KN-8432-11A-01R-2315-07	Solid Tissue Normal	1	86	female	white	Alive	Stage II
+TCGA-KN-8437-01A-11R-2315-07	Primary Tumor	2	42	female	white	Alive	Stage I
+TCGA-KN-8419-01A-11R-2315-07	Primary Tumor	2	43	male	black or african american	Alive	Stage II
+TCGA-KN-8426-01A-11R-2315-07	Primary Tumor	2	50	male	white	Alive	Stage IV
+TCGA-KN-8431-11A-01R-2315-07	Solid Tissue Normal	1	35	female	not reported	Alive	Stage II
+TCGA-KN-8425-11A-01R-2315-07	Solid Tissue Normal	1	53	male	white	Alive	Stage I
+TCGA-KO-8406-01A-11R-2315-07	Primary Tumor	2	17	female	white	Alive	Stage I
