@@ -6,11 +6,10 @@
 ```python
 import pandas as pd
 
-fname1 = 'beta_values_nonna1.par'
-fname2 = 'beta_values_nonna2.par'
+fname = 'beta_values_nonna'
 
-df1 = pd.read_parquet(fname1)
-df2 = pd.read_parquet(fname2)
+df1 = pd.read_parquet(fname+'1.par')
+df2 = pd.read_parquet(fname+'2.par')
 
 df = pd.concat([df1,df2],axis=1)
 
