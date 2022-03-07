@@ -1,4 +1,8 @@
 # COAD
+```bash
+$ wget https://github.com/WonyoungCho/tcga_data/raw/main/coad/download.sh
+```
+
 - beta_values_nonna0.par : [319547 rows x 59 columns]
 - beta_values_nonna1.par : [319547 rows x 59 columns]
 - beta_values_nonna2.par : [319547 rows x 59 columns]
